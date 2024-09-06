@@ -44,7 +44,7 @@ const Mission = (props) => {
             onClick={() => missionJoin(id)}
             className="border border-black text-black bg-transparent rounded-md px-2 sm:px-3 py-1 text-xs sm:text-sm hover:bg-gray-300 transition"
           >
-            Join Mission
+            Join The Mission
           </button>
         )}
       </td>
